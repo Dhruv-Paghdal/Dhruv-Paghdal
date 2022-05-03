@@ -14,7 +14,6 @@ I have learned many languages like:- <br />
 * DataBase(MySql, Oracle, Mongoo DB). <br />
 * Blogging(Blogger, Google Analystic, Content Writing).
 <br /><br />
-
 Apart form learning these languages, I had also created many projects in these language.
 
 *   🌍  I'm based in India

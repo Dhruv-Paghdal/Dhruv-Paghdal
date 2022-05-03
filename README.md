@@ -4,15 +4,15 @@ Hi 👋 My name is Dhruv Paghdal
 Web Developer and Designer
 --------------------------
 
-I am pursuing my bachelor's in Information and Technology feild with LDRP-ITR. I love to learn new codes, new technology and new projects. 
-I am also fond of swimming and reading books. 
-I have learned many languages like:- 
-Programming(C, C++, Core JAVA, Python-3). 
-Web Development(HTML-5, CSS-3 and Bootstrap). 
-Scripting(JavaScript, PHP). 
-Framework(React JS, Node JS, Express JS) 
-DataBase(MySql, Oracle, Mongoo DB). 
-Blogging(Blogger, Google Analystic, Content Writing). 
+I am pursuing my bachelor's in Information and Technology feild with LDRP-ITR. I love to learn new codes, new technology and new projects. <br />
+I am also fond of swimming and reading books. <br />
+I have learned many languages like:- <br />
+Programming(C, C++, Core JAVA, Python-3). <br />
+Web Development(HTML-5, CSS-3 and Bootstrap). <br />
+Scripting(JavaScript, PHP). <br />
+Framework(React JS, Node JS, Express JS). <br /> 
+DataBase(MySql, Oracle, Mongoo DB). <br />
+Blogging(Blogger, Google Analystic, Content Writing).<br /> 
 Apart form learning these languages, I had also created many projects in these language.
 
 *   🌍  I'm based in India

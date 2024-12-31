@@ -4,18 +4,25 @@ Hi 👋 My name is Dhruv Paghdal
 Web Developer and Designer
 --------------------------
 
-I am pursuing my bachelor's in Information and Technology feild with LDRP-ITR. I love to learn new codes, new technology and new projects. <br />
-I am also fond of swimming and reading books. <br /><br />
-I have learned many languages like:- <br />
-* Programming(C, C++, Core JAVA, Python-3). <br />
-* Web Development(HTML-5, CSS-3 and Bootstrap). <br />
-* Scripting(JavaScript, PHP). <br />
-* Framework(React JS, Node JS, Express JS). <br /> 
-* DataBase(MySql, Oracle, Mongoo DB). <br />
-* Blogging(Blogger, Google Analystic, Content Writing).
-<br />
+🌟 **Passionate IT Professional and Master's Student**  
+I am currently pursuing a **Master of Applied Computing at the University of Windsor, Canada**, with a deep commitment to advancing my knowledge in **Computer Science**. My academic foundation lies in a **Bachelor’s degree in Information Technology** from **LDRP-ITR**, where I cultivated a strong passion for developing innovative solutions and tackling complex problems in the ever-evolving field of technology.  
 
-Apart form learning these languages, I had also created many projects in these language.
+💻 **Technical Expertise and Project Highlights**  
+I have developed a diverse skill set in programming, web development, and database management, enabling me to approach challenges with creativity and efficiency.  
+
+🔧 **Technical Skills:**  
+- Programming Languages: C, C++, Core Java, Python  
+- Web Development: HTML5, CSS3, Bootstrap  
+- Scripting Languages: JavaScript, PHP, Shell Scripts  
+- Databases: MySQL, Oracle, MongoDB  
+- Special Interests: Blogging, content writing, and data analytics using tools like Google Analytics and Blogger  
+
+📂 **Projects:**  
+- *Web Development:* TODO App, Static Website, Tic-Tac-Toe Game, Digital Clock (HTML, CSS, JS, MySQL)  
+- *Python Applications:* Speech-to-Text Converter, Face Detection, Lane Detection, Calculator App, Login-Signup App, OTP Sender App, TODO App  
+- *Advanced Projects:* Quiz App, Weather Game, Full-Stack Website, Payroll Web App (React & Node.js)  
+
+Let’s connect and explore opportunities to collaborate, learn, and grow together in the exciting field of **Computer Science**! 
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Here](http://dhruv-paghdal.github.io/dhruv)
